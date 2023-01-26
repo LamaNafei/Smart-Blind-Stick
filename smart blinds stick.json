@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-blinds-stick-ff409",
+  "private_key_id": "0384d6c07b8c410bcf0f463647aa4c31b8a32bd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrozcMXG3b5dSs\nwcvqHuR7MLb/SdqUxKAz4D/JvSWRCUsEOZZLC9gjxEXRco3ET81Ka1Ktv+RutbB6\nQB601QJUm+eoZLk1/rv7iuvg+GvEoNQitPwRh42b1IGo7MUj2plyASe9h0kMvtGL\nK/ozU3A97TDViQf02pbsCXDchNdyK8yiPnlUvRBeO87chGWH+xbtK4ErdJ1UeKO/\nNAooXt66q1h+mpxlEVuB+YRinU2+NEJEGE3vE+AQyh3vd+yxqVEaQzKl2UP3LBrZ\nXy4cvKj0ZEhgHZMWzvZsNYqcH1//tUOUCcw4ZG17RCq8Q08MiCH8wiiP0MeP3xUt\nl6FrGxLtAgMBAAECggEAJYVa35wmFPv/e9uqvu3Nb2PFIXZM7xgz2FtVvn2XpIbm\nTBBlu1alw53g0GptNOToITRogNyx7ITSBUuWmtv09DeX0x9fwL7E6/ag3Y+ZCYVK\nEqNDdnaOXao9RQcrioy7XimD/UIBlWRyjOzKd6VuJE+BjTC1WVDezM88iayNp6Kx\nUw5O3rCoAgMLqanrf5RQAJrCdZQTMmDfzE/KLntjyAYT1zCkR+tcv3VFg1Ymiggw\nCNZCU6kmIb8bc/1oGIkZMb+8LEXMkYvXRtQOBEKmu58Ic6ylfY1F1flbbo07kjv4\n1vhftSSz5/ei9/1aGNdOSxonhWiq5UJYy3rD3wxveQKBgQDaJU8XEZcX/k98z3OB\neJA5YHuj7L4wct35qCoe/Ym1Pjl+nb7UFhUtGzRLbK8arGixDDVAE0RyfEIFr4XD\nbdLn2AxryvhMFPf2C40M+G1b0gjBFnZJ56xE7foaz0cs2XGJy7PpaNSVXqHZ5xNz\nAEqc62SrrCJaK4ikHjHCjwpXpQKBgQDJa99jY1e9Z7MTObtRwYpLgqhwTFCD7sSD\nn9XTvJPEVmsShZA2PpQ+wSZZIsBIn/MndATJigjjcsO1wYTGzh/LL6ibKDJwWjz0\nyIsr2BDL+8deexuTo6uYnrWiIQDHAR+txp3EuoOicLSUJEyar2sz/9LUR4qhhCO6\nuO4rxQyrqQKBgB6RAb8KwPAku0CS1O18VkEj6s8yWgfx4HaeAKDtB8G0oVvDgLy5\nB2iVmkNDTFnhdJ3yRvfee0XLcXjYelbC6b2AwWTNQPNwMLpyLeZ2XORzzrQ3kIWU\nh8f0zIm7J476PPWA7Im1Hax8YRNmVIxVqx7HwQhpCzs1RGUysehAIMPdAoGAVlKT\n521w8eyac5ffbtdqZJg3hgE+1Hwk3mBG7Lq5/YAn3UU+m/DP6eEvhS3+iGF8fSEc\n2B7/VjMeKywnsmgueg8PzIc6rqoNy76S3pR4BmP+esB5/hk79mm2YCiSw7b4k6o2\nfVSOC7UPvxmbdwPNBvkRqwaKJFSUV3bgJAQMPRkCgYAJKZg67lt7Oy1TpZXIO132\nvpecFnrWP0G92aL/ffAqCC45NDl60526Xf4b91TiUdbUvPkgzPDOoDEkOVC/fa26\nvSqv+JbAioemRPbxN+7F6cpVHPDlSITFrLgDtZzmnACsDN4tRVHNRD6+/ngSDQGx\nZJqLTfk8yP83KE08dYjvxA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n6h8q@smart-blinds-stick-ff409.iam.gserviceaccount.com",
+  "client_id": "112688105487225148038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n6h8q%40smart-blinds-stick-ff409.iam.gserviceaccount.com"
+}
