@@ -19,7 +19,7 @@ import speech_recognition as sr
 
 
 
-#GPIO.setwarnings(False) # Ignore warning for now
+GPIO.setwarnings(False) # Ignore warning for now
 #GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
 #GPIO.setup(3, GPIO.IN, pull_up_down=GPIO.PUD_DOWN) # Set pin 12 to be an input pin and set initial value to be pulled low (off)
 
@@ -111,9 +111,11 @@ net.setInputSwapRB(True)
 # Capture frames continuously from the camera
 for frame in camera.capture_continuous(raw_capture, format="bgr", use_video_port=True):
      
-#    print(GPIO.input(3))
- #   if GPIO.input(3) == GPIO.HIGH:
-  #      GPScode()
+    GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
+    GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_DOWN) # Set pin 12 to be an input pin and set initial value to be pulled low (off)
+    if GPIO.input(18) == GPIO.HIGH:
+       GPScode()
+    GPIO.cleanup()
     # Grab the raw NumPy array representing the image
     image = frame.array
     classIds, confs, bbox = net.detect(image, confThreshold=0.5)
